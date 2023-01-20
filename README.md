@@ -1,6 +1,8 @@
 ## Hey, Freedye here! :wave:
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=freedye&theme=dark&show_icons=true">](https://metrics.lecoq.io/freedye?template=classic)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Freedye&show_icons=true&theme=dark#gh-dark-mode-only" />
+</a>
 
 I'm Federico, a developer from Italy.
 
