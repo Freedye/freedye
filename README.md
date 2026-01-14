@@ -8,8 +8,13 @@ I'm Federico, a developer from Italy.
 
 ## Backend skills:
 
--   Java / PHP / Oracle / MSSQL / DB2
--   Spring / Hibernate
+-   Java / Rust / PHP
+-   Spring / Maven
+
+## Database skills:
+
+-   MySQL / Postgres / Oracle / MSSQL / DB2
+-   Sql Developer / DBeaver
 
 ## Frontend skills:
 
