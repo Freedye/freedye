@@ -1,9 +1,9 @@
 ## Hey, Freedye here! :wave:
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Freedye&show_icons=true&theme=dark#gh-dark-mode-only" />
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=dracula&fontFamily=&preferLogin=false">    
+  <img  alt="Freedye's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Freedye?cardType=level-alternate&theme=dracula&fontFamily=&preferLogin=false" />  
 </a>
-
+  
 I'm Federico, a developer from Italy.
 
 ## Backend skills:
