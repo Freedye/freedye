@@ -1,7 +1,7 @@
 ## Hey, Freedye here! :wave:
 
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=dracula&fontFamily=&preferLogin=false">    
-  <img  alt="Freedye's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Freedye?cardType=level-alternate&theme=dracula&fontFamily=&preferLogin=false" />  
+  <img align="right" alt="Freedye's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Freedye?cardType=level-alternate&theme=dracula&fontFamily=&preferLogin=false" />  
 </a>
   
 I'm Federico, a developer from Italy.
