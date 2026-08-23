@@ -1,10 +1,10 @@
-## Hey, Freedye here! :wave:
+## Federico Bolcato
 
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=dracula&fontFamily=&preferLogin=false">    
   <img align="right" alt="Freedye's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Freedye?cardType=level-alternate&theme=dracula&fontFamily=&preferLogin=false" />  
 </a>
 
-I'm Federico, a developer from Italy. I split my time between full-stack web apps and low-level Linux/desktop tooling (X11, Wayland, D-Bus).
+Software developer from Italy, working across full-stack web applications and low-level Linux/desktop tooling (X11, Wayland, D-Bus).
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -18,18 +18,18 @@ I'm Federico, a developer from Italy. I split my time between full-stack web app
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=black)
 
-## 🚀 What I'm building
+## Featured Projects
 
-| Project | Stack | What it does |
+| Project | Stack | Description |
 |---|---|---|
-| [xembedsniproxy-standalone](https://github.com/Freedye/xembedsniproxy-standalone) | C++ · Qt6 · XCB / X11 · D-Bus | Lightweight standalone fork of KDE's XEmbed→StatusNotifierItem tray proxy, no KDE Frameworks required |
-| [blizzard_launcher_for_linux](https://github.com/Freedye/blizzard_launcher_for_linux) | C++ · Qt6 · CMake | Native launcher for Blizzard games on Linux, skips relying on the Battle.net client at runtime |
-| [mulgore_backend](https://github.com/Freedye/mulgore_backend) | Rust · Cargo | Backend playground for the WoW APIs, used to learn Rust |
-| [mulgore_frontend](https://github.com/Freedye/mulgore_frontend) | React · JavaScript | Frontend playground for the WoW APIs |
-| [dotfiles-hyprland](https://github.com/Freedye/dotfiles-hyprland) | Hyprland · Zsh · pywal16 | My daily-driver Hyprland ricing/config setup |
-| [homepage](https://github.com/Freedye/homepage) | HTML5 · CSS · JavaScript | My personal site |
+| [xembedsniproxy-standalone](https://github.com/Freedye/xembedsniproxy-standalone) | C++ · Qt6 · XCB / X11 · D-Bus | Standalone fork of KDE's XEmbed to StatusNotifierItem tray proxy, with no KDE Frameworks dependency |
+| [blizzard_launcher_for_linux](https://github.com/Freedye/blizzard_launcher_for_linux) | C++ · Qt6 · CMake | Native launcher for Blizzard games on Linux that does not rely on the Battle.net client at runtime |
+| [mulgore_backend](https://github.com/Freedye/mulgore_backend) | Rust · Cargo | Backend service built on the World of Warcraft APIs, developed to learn Rust |
+| [mulgore_frontend](https://github.com/Freedye/mulgore_frontend) | React · JavaScript | Frontend client for the World of Warcraft APIs |
+| [dotfiles-hyprland](https://github.com/Freedye/dotfiles-hyprland) | Hyprland · Zsh · pywal16 | Personal Hyprland configuration and setup |
+| [homepage](https://github.com/Freedye/homepage) | HTML5 · CSS · JavaScript | Personal website |
 
-## 🧰 Skills
+## Skills
 
 **Backend**
 -   Java · Spring Boot · Maven
@@ -53,7 +53,7 @@ I'm Federico, a developer from Italy. I split my time between full-stack web app
 **Tooling**
 -   Git · Zsh · Hyprland
 
-## Contacts:
+## Contact
 
 -   [federico.bolc@gmail.com](mailto:federico.bolc@gmail.com)
 -   [Federico Bolcato](https://www.linkedin.com/in/federico-bolcato-a3304110b/) on LinkedIn
