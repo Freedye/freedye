@@ -1,7 +1,7 @@
 ## Federico Bolcato
 
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=gruvbox&fontFamily=JetBrains%20Mono&preferLogin=false">
-  <img  alt="Freedye's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Freedye?cardType=level&theme=gruvbox&fontFamily=JetBrains%20Mono&preferLogin=false" />
+  <img align="right" alt="Freedye's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Freedye?cardType=level&theme=gruvbox&fontFamily=JetBrains%20Mono&preferLogin=false" />
 </a>
 
 Software developer from Italy, working across full-stack web applications and low-level Linux/desktop tooling (X11, Wayland, D-Bus).
